@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Lideim"><img src="https://img.shields.io/badge/Telegram-@Lideim-22d3ee?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a1a40" alt="Telegram"></a>
-  <a href="https://boosty.to/lideim"><img src="https://img.shields.io/badge/Boosty-Lideim_Lab-22d3ee?style=for-the-badge&logo=boosty&logoColor=white&labelColor=0a1a40" alt="Boosty"></a>
-  <a href="https://pypi.org/project/modelcheck-ru/"><img src="https://img.shields.io/badge/PyPI-modelcheck--ru-22d3ee?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0a1a40" alt="PyPI"></a>
+  Пишу на Python и TypeScript: Telegram-боты, Mini Apps и ИИ-интеграции.<br>
+  Учусь на программиста и делаю проекты, которые работают в проде.
 </p>
 
 <p align="center">
-  Пишу на Python и TypeScript: Telegram-боты, Mini Apps и ИИ-интеграции.<br>
-  Учусь на программиста и делаю проекты, которые работают в проде.
+  <a href="https://t.me/Lideim">Telegram</a> &nbsp;·&nbsp;
+  <a href="https://boosty.to/lideim">Boosty</a> &nbsp;·&nbsp;
+  <a href="https://pypi.org/project/modelcheck-ru/">PyPI</a>
 </p>
 
 <br>
@@ -32,8 +32,8 @@
 <h3 align="center">🚀 Проекты</h3>
 
 <p align="center">
-  <a href="https://github.com/lideim/modelcheck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lideim&repo=modelcheck&hide_border=true&bg_color=0a1a40&title_color=22d3ee&icon_color=22d3ee&text_color=eef3fb&border_radius=10&description_lines_count=2" alt="modelcheck"></a>
-  <a href="https://github.com/lideim/ml-journey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lideim&repo=ml-journey&hide_border=true&bg_color=0a1a40&title_color=22d3ee&icon_color=22d3ee&text_color=eef3fb&border_radius=10&description_lines_count=2" alt="ml-journey"></a>
+  <a href="https://github.com/lideim/modelcheck"><b>modelcheck</b></a> — проверка, настоящая ли нейросеть за API-ключом<br>
+  <a href="https://github.com/lideim/ml-journey"><b>ml-journey</b></a> — мой путь в ML: математика и модели с нуля
 </p>
 
 <br>
