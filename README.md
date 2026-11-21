@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><b>ИИ</b></td>
-    <td><img src="https://img.shields.io/badge/LLM%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM API"> <img src="https://img.shields.io/badge/%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D1%8B-7C3AED?style=for-the-badge&logo=claude&logoColor=white" alt="Агенты"> <img src="https://img.shields.io/badge/RAG-1C7C54?style=for-the-badge&logo=langchain&logoColor=white" alt="RAG"> <img src="https://img.shields.io/badge/%D0%A1%D0%B2%D0%BE%D0%B9%20%D0%98%D0%98--%D1%80%D0%BE%D1%83%D1%82%D0%B5%D1%80-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Свой ИИ-роутер"></td>
+    <td><img src="https://img.shields.io/badge/LLM%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM API"> <img src="https://img.shields.io/badge/%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D1%8B-7C3AED?style=for-the-badge&logo=claude&logoColor=white" alt="Агенты"> <img src="https://img.shields.io/badge/RAG-1C7C54?style=for-the-badge&logo=langchain&logoColor=white" alt="RAG"></td>
   </tr>
   <tr>
     <td><b>Реверс</b></td>
